@@ -176,7 +176,7 @@ O usuário envia uma imagem RGB e recebe:
 * Probabilidade para cada uma das 4 classes
 * Interpretação operacional para o EpiSat
 
- **Vídeo de demonstração:** *[Inserir link do YouTube]*
+ **Vídeo de demonstração:** *https://youtu.be/vvB0fpzxsVg*
 
 ---
 
