@@ -1,0 +1,28 @@
+{
+  "class_names": [
+    "corpos_agua",
+    "vegetacao_densa",
+    "area_urbana",
+    "area_agricola"
+  ],
+  "idx_to_episat": {
+    "0": "corpos_agua",
+    "1": "vegetacao_densa",
+    "2": "area_urbana",
+    "3": "area_agricola"
+  },
+  "best_model": "CNN2 - Aprofundada",
+  "test_accuracy": 0.9583333333333334,
+  "test_f1_macro": 0.9581522212257166,
+  "image_size": 64,
+  "normalization_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "normalization_std": [
+    0.229,
+    0.224,
+    0.225
+  ]
+}
